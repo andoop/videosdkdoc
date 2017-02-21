@@ -1,3 +1,8 @@
-# My Awesome Book
+## 多盟视频sdk开发者文档
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+#####     版本号：v1.1.1
+
+#####     更新时间：2017-02-17
+
+
+
